@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570445109 source:d:\tugas 4\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdlib.h>
+
+1570445110 source:e:\documents\teknik informatika\dokumen\gameprogramming\pertemuan 4\tugas 4\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdlib.h>
+
